@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### 📫  My cool profiles:
 
-***Codeforces*** : https://codeforces.com/profile/xXProKodarXx </br>
-***Codechef***   : https://www.codechef.com/users/manankabra </br>
+***Codeforces*** : https://codeforces.com/profile/mananaaaa</br>
+***Codechef***   : https://www.codechef.com/users/prokodar </br>
 ***Linkedin***   : https://www.linkedin.com/in/manan-kabra-8943991bb/
 
 ### ✨ My GitHub
